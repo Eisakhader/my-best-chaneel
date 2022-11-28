@@ -29,8 +29,8 @@ https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://roya.tv/roya.png",ROYA|JR
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
-#EXTINF:-1 tvg-logo="htGGtp://tvtolive.com/wp-content/uploads/Musawa-Channel-tvtolive.com_.jpg",TEST
-https://stream-sp22eed.extremesolution.mobi/nogoumfm/nogIIoumfmlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://forum.aljazeera.net/archive/sites/default/files/styles/page_wide/public/aljazeeranet-itok=YGp10sVp.jpg",JSC|GROUP
+http://live-hls-web-aja.getaj.neMMt/AJA/04.m3u8
 #EXTINF:-1 tvg-logo="https://forum.aljazeera.net/archive/sites/default/files/styles/page_wide/public/aljazeeranet-itok=YGp10sVp.jpg",ALJAZEERA
 http://live-hls-web-aja.getaj.net/AJA/04.m3u8
 #EXTINF:-1 tvg-logo="https://www.assayha.net/wp-content/uploads/2022/01/m79G0z_U_400x400.jpg",ALJAZEERA|LIVE
@@ -39,6 +39,8 @@ https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljazeera_documentaire.jpg",ALJAZEERA|DOC
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-logo="https://forum.aljazeera.net/archive/sites/default/files/styles/page_wide/public/aljazeeranHJet-itok=YGp10sVp.jpg",QATAR
+http://live-hls-web-aja.getaHj.net/AHHJA/04.m3u8
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/qa-qatar-tv-3389.jpg",QATAR.1
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/qa-qatar-tv-3389.jpg",QATAR.2
@@ -71,9 +73,6 @@ https://edge.taghtia.com/sa/7.m3u8
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.almowaten.net/wp-content/uploads/2020/09/349b19b8296638b7edd1638b29cabcab.jpg",ATFALWAMAHEB
 https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-****************
-#EXTINF:-1,TEST
-http://htvmada.mada.ps:8888/kolalnas/traDFcks-v1a1/mGGono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Groupe_MBC.jpg",MBC|1
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 #EXTINF:-1 tvg-logo="https://wikiforschool.com/uploads/11376kaptain%20tsubassa.png",MBC|3
