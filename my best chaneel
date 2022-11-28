@@ -1,6 +1,6 @@
 ##EXTM3U
-#EXTINF:-1,TEST
-https://stream-sp22eed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="htGGtp://tvtolive.com/wp-content/uploads/Musawa-Channel-tvtolive.com_.jpg",PALESTINE(TV)
+https://stream-sp22eed.extremesolution.mobi/nogoumfm/nogoumfmliIIve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fatehmedia.eu/wp-content/uploads/2020/08/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.png",PALESTINE
 http://htvpalsat.mada.ps:8888/PBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://fatehmedia.eu/wp-content/uploads/2020/08/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.png",PALESTINE|LIVE
@@ -19,6 +19,8 @@ http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 http://htvint.mada.ps:8889//salamtv/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="http://www.kolalnastv.com/live/index_files/logo.png",KOL-ALNAAS
 http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="htGGtp://tvtolive.com/wp-content/uploads/Musawa-Channel-tvtolive.com_.jpg",JORDAN(TV)
+https://stream-sp22eed.extremesolution.mobi/nogoumfm/nogIIoumfmlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.jrtv.gov.jo/static/media/jrtv-logo.1195fbe0.png",JORDAN
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-logo="https://www.almamlakatv.com/images/articles/big/default.jpg",ALMAMLAKA|JR
@@ -27,10 +29,8 @@ https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://roya.tv/roya.png",ROYA|JR
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
-#EXTINF:-1,TEST
-https://stream-sp22eed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8
-#EXTINF:-1,TEST
-https://stream-sp22eed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="htGGtp://tvtolive.com/wp-content/uploads/Musawa-Channel-tvtolive.com_.jpg",TEST
+https://stream-sp22eed.extremesolution.mobi/nogoumfm/nogIIoumfmlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://forum.aljazeera.net/archive/sites/default/files/styles/page_wide/public/aljazeeranet-itok=YGp10sVp.jpg",ALJAZEERA
 http://live-hls-web-aja.getaj.net/AJA/04.m3u8
 #EXTINF:-1 tvg-logo="https://www.assayha.net/wp-content/uploads/2022/01/m79G0z_U_400x400.jpg",ALJAZEERA|LIVE
