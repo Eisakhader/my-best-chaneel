@@ -1,9 +1,11 @@
 ##EXTM3U
+#EXTINF:-1,TEST
+https://stream-sp22eed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fatehmedia.eu/wp-content/uploads/2020/08/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.png",PALESTINE
 http://htvpalsat.mada.ps:8888/PBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://fatehmedia.eu/wp-content/uploads/2020/08/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.png",PALESTINE|LIVE
 http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
-#EXTINF:-1 tvg-logo="https://elcinema.com/tvguide/1343/",MUSAWA
+#EXTINF:-1 tvg-logo="http://tvtolive.com/wp-content/uploads/Musawa-Channel-tvtolive.com_.jpg",MUSAWA
 http://htvpalsat.mada.ps:8888/musawa/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1452908844284272645/JbdExxv4_400x400.jpg",AWDEH
 http://htvpalsat.mada.ps:8888/audeh/index.m3u8
@@ -25,6 +27,8 @@ https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://roya.tv/roya.png",ROYA|JR
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
+#EXTINF:-1,TEST
+https://stream-sp22eed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://forum.aljazeera.net/archive/sites/default/files/styles/page_wide/public/aljazeeranet-itok=YGp10sVp.jpg",ALJAZEERA
 http://live-hls-web-aja.getaj.net/AJA/04.m3u8
 #EXTINF:-1 tvg-logo="https://www.assayha.net/wp-content/uploads/2022/01/m79G0z_U_400x400.jpg",ALJAZEERA|LIVE
@@ -78,7 +82,7 @@ https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/in
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvfun.me/big/mbc-plus-drama-hd.jpg",MBC+|DRAMA
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8?HasBahCa
-#EXTINF:-1 tvg-logo="https://www.altkia.com/wp-content/uploads/2015/04/MBC-Bollywood.jpg",MBC|BOLLYWOOD
+#EXTINF:-1 tvg-logo="https://eltalta.com/wp-content/uploads/2021/09/-mbc-bollywood1-e1631132176308.jpg",MBC|BOLLYWOOD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?HasBahCa
 #EXTINF:-1 tvg-logo="https://darhaya.com/uploads/images/2021/10/947x500-P02Yf.png?f=1",MBC|IRAQ
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8?checkedby:hlscat.com
@@ -152,7 +156,7 @@ https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.fekera.com/wp-content/uploads/2021/04/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D9%86%D9%88%D8%B1-%D8%AF%D8%A8%D9%8A-2019-1.jpg",NOOR|DUBAI
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1283_1.png",DUBAI|ZAMAN
+#EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5fa3d8268e.jpg",DUBAI|ZAMAN
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://felmodrj.com/wp-content/uploads/2021/07/ad87c740c8.jpg",DUBAI|SPORT(1)
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8
