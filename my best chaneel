@@ -256,6 +256,9 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.elwatannews.com/watan/610x300/15403528661631871096.jpg",ALFADJR
 https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d1/Elanislogo.png",ALANEES
+https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.koorapress.com/wp-content/uploads/2020/10/Al-Aoula-Live-HD.jpg",ALAOULA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/mediterranee-audiovisuelle.com/wp-content/uploads/2015/05/2M_logo.jpg?fit=350,350",2M|MONDE
