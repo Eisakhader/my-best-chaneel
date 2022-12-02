@@ -17,6 +17,8 @@ http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/4903.ts
 http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/2529.ts
 #EXTINF:-1 tvg-logo="https://assets.turbologo.com/blog/it/2021/11/15090711/Nickelodeon-1-958x575.png",NICKELODEON
 http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/2828.ts
+#EXTINF:-1 tvg-logo="https://assets.turbologo.com/blog/it/2021/11/15090711/Nickelodeon-1-958x575.png",NICKELODEON
+http://217.74.16.120:25431/live/199771479671/62f6e7668797b.15494/2828.m3u8?token=ybbHXyc.UcUyH.y.fayyc.yczHbdcU.X.y.PS.m3u8.f4ddc72ab35b858dfb98f01e3213a7ce40db0734b48d43fe17d51b37b26e1e58
 #EXTINF:-1 tvg-logo="https://assets-cdn.nationalgeographic.com/natgeo/static/default.NG.logo.dark.jpg",NATIONAL|GEOGRAPHIC
 http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/3839.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png",NAT|GEO(WILD)
