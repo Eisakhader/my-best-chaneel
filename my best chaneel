@@ -215,6 +215,19 @@ https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://www.istiqama.tv/public/assets/images/logo.png",ALISTIQAMA
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.du.ae/servlet/duaediscovery/common/landing/favicon/social-sharing.png",DU|GROUP
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvm88ain_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.turbologo.com/blog/it/2021/11/15090711/Nickelodeon-1-958x575.png",NICKELODEON
+http://217.74.16.120:25431/live/199771479671/62f6e7668797b.15494/2828.m3u8?token=ybbHXyc.ybcbz.y.ybcUc.yczHbdcU.X.y.PS.m3u8.5a388ac0d89c43607fe30c55054b7388819008d091d14554fd15fe1b4e05e138
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/30/Star_World_Asia_2013_Logo.png",STAR|WORLD
+http://103.194.169.202:8080/live/199771479671/62f6e7668797b.15494/4904.m3u8?token=ybbHXyc.X.y.X.yczHbdcU.X.y.PS.m3u8.f5ca621908d1a0c7e6f878f47af9e634f9243d38e477cb69eae6172815a9732e
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201908/star_movies-logo_3.png.jpg",STAR|MOVIES
+http://103.194.169.202:8080/live/199771479671/62f6e7668797b.15494/4903.m3u8?token=ybbHXyc.yzcyc.y.yzcXy.yczHbdcU.X.y.PS.m3u8.69bae699ab41b29e955ab1066c33fdc77e5fe39fe2772bfc68a0282b6c9275d0
+#EXTINF:-1 tvg-logo="https://assets-cdn.nationalgeographic.com/natgeo/static/default.NG.logo.dark.jpg",NATIONAL|GEOGRAPHIC
+http://217.74.16.120:25431/live/199771479671/62f6e7668797b.15494/3839.m3u8?token=ybbHXyc.X.y.X.yczHbdcU.X.y.PS.m3u8.9ba8cdd880b3c6e3acc33f1facbc8489b9f36de1d1a520ad4b8a2e684abc1f86
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png",NAT|GEO(WILD)
+http://217.74.16.120:25431/live/199771479671/62f6e7668797b.15494/3838.m3u8?token=ybbHXyc.bXHdy.y.bXHab.yczHbdcU.X.y.PS.m3u8.5c2a9fbdd77e09ff2a8f4e7292203376fcda808031886a2fd0eff2cf9424a557
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRvI4BUqDefGRfRypI9fiVDwQcX_mP4CUfWSUn-=s900-c-k-c0x00ffffff-no-rj",ALIRAQIYA
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F852%2Fal-rasheed-tv-1.png",ALRASHEED
