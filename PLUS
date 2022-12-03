@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/2560px-FOX_wordmark-orange.svg.png",FOX|GROUP
 http://htvmada.mada.ps:8888/kolVVVCalnas/tracks-v1a1/mGGono.m3u8
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/146-1466617_fx-logo-sign-hd-png-download.png",FX
-http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/45896.ts
+
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Fox-Action-Movies.png",FOX|MOVIES(Action)
 http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/5406.ts
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Fox-Family-Movies.png",FOX|MOVIES(Family)
-http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/5407.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/30/Star_World_Asia_2013_Logo.png",STAR|WORLD
 http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/4904.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/30/Star_World_Asia_2013_Logo.png",STAR|WORLD
@@ -107,6 +105,15 @@ http://line.stealthdino.com:80/0c8e4d48dd/ayedder99/250040
 http://line.stealthdino.com:80/0c8e4d48dd/ayedder99/602721
 #EXTINF:-1 tvg-logo="https://cdn02.paltoday.ps/ar/thumb/1100x700/uploads/images/r8xB6.PNG",MBC|ACTION
 http://line.stealthdino.com:80/0c8e4d48dd/ayedder99/602732
+#EXTINF:-1 tvg-logo="https://akhbarsat.com/wp-content/uploads/2021/10/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-SSC-800x600-1-800x580.jpeg",SSC|NEWS
+http://line.stealthdino.com:80/0c8e4d48dd/ayedder99/770769
+#EXTINF:-1 tvg-logo="https://akhbarsat.com/wp-content/uploads/2021/10/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-SSC-800x600-1-800x580.jpeg",SSC|SPORT.1
+http://line.stealthdino.com:80/0c8e4d48dd/ayedder99/770767
+#EXTINF:-1 tvg-logo="https://akhbarsat.com/wp-content/uploads/2021/10/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-SSC-800x600-1-800x580.jpeg",SSC|SPORT.2
+http://line.stealthdino.com:80/0c8e4d48dd/ayedder99/770759
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.broadbandtFFvnews.com/wp-content/uploads/2017/06/Gulli-Bil-Arabi.png",TEST
 https://edge.roku-live.top.comcast.net/out/u/444FFstarz-west.m3u8
