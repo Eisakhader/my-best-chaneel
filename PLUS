@@ -100,5 +100,13 @@ https://edge.roku-live.top.comcast.net/out/u/444GGstarz-west.m3u8
 http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/236078.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1200px-Bein_sport_logo.svg.png",BEIN|SPORT.2
 http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/236079.ts
+
+#EXTINF:-1 tvg-logo="https://cdn02.paltoday.ps/ar/uploads/images/2022/06/pOydD.jpg",MBC|2
+http://line.stealthdino.com:80/0c8e4d48dd/ayedder99/250040
+#EXTINF:-1 tvg-logo="https://mbc-max.topnows.com/cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc-max.png",MBC|MAX
+http://line.stealthdino.com:80/0c8e4d48dd/ayedder99/602721
+#EXTINF:-1 tvg-logo="https://cdn02.paltoday.ps/ar/thumb/1100x700/uploads/images/r8xB6.PNG",MBC|ACTION
+http://line.stealthdino.com:80/0c8e4d48dd/ayedder99/602732
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.broadbandtFFvnews.com/wp-content/uploads/2017/06/Gulli-Bil-Arabi.png",TEST
 https://edge.roku-live.top.comcast.net/out/u/444FFstarz-west.m3u8
