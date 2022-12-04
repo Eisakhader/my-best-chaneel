@@ -239,10 +239,12 @@ http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/2828.ts
 http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/4904.ts
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201908/star_movies-logo_3.png.jpg",STAR|MOVIES
 http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/4903.ts
+#EXTINF:-1 tvg-logo="https://assets-cdn.nationalgeographic.com/natgeo/static/default.NG.logo.dark.jpg",NATIONAL|GEOGRAPHIC
+http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/3839.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png",NAT|GEO(WILD)
 http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/3838.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_GeogrGGaphic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png",TEST
-http://sabtooh.club:12060/live/199771479671/62f6e7668797b.154G94/3838.ts
+#EXTINF:-1 tvg-logo="https://m.eyeofriyadh.com/news_images/2021/06/2d323125bae65.jpeg",OSN.MOVIES
+http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/2245.ts
 #EXTINF:-1 tvg-logo="https://media0001.elcinema.com/tvguide/1254_1.png",OSN.SERIES
 http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/24177
 
