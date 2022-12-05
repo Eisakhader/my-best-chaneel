@@ -74,7 +74,8 @@ http://line.stealthdino.com:80/0c8e4d48dd/ayedder99/250040
 #EXTINF:-1 tvg-logo="https://wikiforschool.com/uploads/11376kaptain%20tsubassa.png",MBC|3.A
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-logo="https://wikiforschool.com/uploads/11376kaptain%20tsubassa.png",MBC|3.E
-https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8#EXTINF:-1 tvg-logo="https://eltalta.com/wp-content/uploads/2021/09/-mbc-bollywood1-e1631132176308.jpg",MBC|BOLLYWOOD
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8
+#EXTINF:-1 tvg-logo="https://eltalta.com/wp-content/uploads/2021/09/-mbc-bollywood1-e1631132176308.jpg",MBC|BOLLYWOOD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?HasBahCadec9f82/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/5e/MBC4_LOGO.jpg",MBC|4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8?HasBahCa
@@ -131,8 +132,6 @@ https://edge.taghtia.com/br/rotana-comedy.m3u8
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8?HasBahCa
 #EXTINF:-1 tvg-logo="https://rotana.net/triAssets/uploads/2020/11/hd.png",ROTANA|PLUS+HD
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8?HasBahCa
-#EXTINF:-1 tvg-logo="https://rotana.net/triAssets/uploads/2020/11/aflam-plus.png",ROTANA|AFLAM
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/480
 #EXTINF:-1 tvg-logo="https://elasimah.com/uploads/images/2022/09/image_750x_6315ea5fd9cfe.jpg",LBC
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQNRB586MkQeIA2i33AnpiXdZRPW6WSg61xrRBm=s900-c-k-c0x00ffffff-no-rj",ALSHARQ|NEWS 
@@ -245,9 +244,6 @@ http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/3839.ts
 http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/3838.ts
 #EXTINF:-1 tvg-logo="https://m.eyeofriyadh.com/news_images/2021/06/2d323125bae65.jpeg",OSN.MOVIES
 http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/2245.ts
-#EXTINF:-1 tvg-logo="https://media0001.elcinema.com/tvguide/1254_1.png",OSN.SERIES
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/24177
-
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRvI4BUqDefGRfRypI9fiVDwQcX_mP4CUfWSUn-=s900-c-k-c0x00ffffff-no-rj",ALIRAQIYA
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
@@ -291,18 +287,6 @@ https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQmEDPAvyc75XivhKw3SvkXTTVDQTzSj6Ws3ecXuw=s900-c-k-c0x00ffffff-no-rj",OMG
 http://media6.smc-host.com:1935/omgchannel.net/omgtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.sama-love.com/upload/18374_sama-love.png",MIX
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/1124
-#EXTINF:-1 tvg-logo="https://www.livearabiatv.com/wp-content/uploads/ON-drama-%D8%A7%D9%88%D9%86-%D8%AF%D8%B1%D8%A7%D9%85%D8%A7-.jpg",ON||DRAMA
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/1090
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/885562003921743872/lGII1Gpi_400x400.jpg",ALAHLY|SPORT
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/1187
-#EXTINF:-1 tvg-logo="https://www.niletc.tv/Public/app_upload/news-258-168/783cf58a-83ca-457e-b5aa-a592edd92ff6.jpg",NILE|DRAMA
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/1098
-#EXTINF:-1 tvg-logo="https://img.youm7.com/large/s1020101910159.jpg",NILE|COMEDY
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/1100
-#EXTINF:-1 tvg-logo="https://www.niletc.tv/Public/app_upload/news-258-168/5e8963fd-e693-4d0a-ad34-1c1fb6b65aa6.jpg",NILE|CULTURE
-http://sniperstv.vip:8080/Marsis12642-78864qdqdaz/Marsis12642_AyzyqjdqdbG/1099
 
 #EXTINF:-1 tvg-logo="https://www.alminasapress.com/user_images/sources/2019-09-06-89541.png",YEMEN|SHABAB
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
