@@ -71,16 +71,12 @@ https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn02.paltoday.ps/ar/uploads/images/2022/06/pOydD.jpg",MBC|2
 http://line.stealthdino.com:80/0c8e4d48dd/ayedder99/250040
-#EXTINF:-1 tvg-logo="https://wikiforschool.com/uploads/11376kaptain%20tsubassa.png",MBC|3.A
+#EXTINF:-1 tvg-logo="https://wikiforschool.com/uploads/11376kaptain%20tsubassa.png",MBC|3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:-1 tvg-logo="https://wikiforschool.com/uploads/11376kaptain%20tsubassa.png",MBC|3.E
-https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8
-#EXTINF:-1 tvg-logo="https://eltalta.com/wp-content/uploads/2021/09/-mbc-bollywood1-e1631132176308.jpg",MBC|BOLLYWOOD
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?HasBahCadec9f82/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/5e/MBC4_LOGO.jpg",MBC|4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8?HasBahCa
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLm1iYzUuZW5kaXJlY3Rfc2NyZWVuXzBfMTU5MTQ5NzY4M18wMjY/screen-0.jpg?fakeurl=1&type=.webp",MBC|5
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-logo="https://eltalta.com/wp-content/uploads/2021/09/-mbc-bollywood1-e1631132176308.jpg",MBC|BOLLYWOOD
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?HasBahCadec9f82/index.m3u8
 #EXTINF:-1 tvg-logo="https://mbc-max.topnows.com/cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc-max.png",MBC|MAX
 http://line.stealthdino.com:80/0c8e4d48dd/ayedder99/602721
 #EXTINF:-1 tvg-logo="https://cdn02.paltoday.ps/ar/thumb/1100x700/uploads/images/r8xB6.PNG",MBC|ACTION
@@ -105,12 +101,12 @@ https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://24.ae/images/Articles2/20221021167252877W.jpg",TAKHAYL
 https://b832176c1c21d511e9ec3dc1df5d4cad.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/shahid-media-prod-channel-assembly-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://akhbarsat.com/wp-content/uploads/2021/10/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-SSC-800x600-1-800x580.jpeg",SSC|NEWS
-http://line.stealthdino.com:80/0c8e4d48dd/ayedder99/770769
 #EXTINF:-1 tvg-logo="https://akhbarsat.com/wp-content/uploads/2021/10/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-SSC-800x600-1-800x580.jpeg",SSC|SPORT.1
 http://line.stealthdino.com:80/0c8e4d48dd/ayedder99/770767
 #EXTINF:-1 tvg-logo="https://akhbarsat.com/wp-content/uploads/2021/10/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-SSC-800x600-1-800x580.jpeg",SSC|SPORT.2
 http://line.stealthdino.com:80/0c8e4d48dd/ayedder99/770759
+#EXTINF:-1 tvg-logo="https://akhbarsat.com/wp-content/uploads/2021/10/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-SSC-800x600-1-800x580.jpeg",SSC|NEWS
+http://line.stealthdino.com:80/0c8e4d48dd/ayedder99/770769
 
 #EXTINF:-1 tvg-logo="https://rotana.net/triAssets/uploads/2021/03/Group-1645.png",ROTANA.GR
 https://b832176c1c21d511e9ec3dc1df5d4cad.4gfbw5.channel-assembly.mediatailwest-1.amazonaws.com/v1/channel/shahid-media-prod-channel-assembly-1/index.m3u8
@@ -149,10 +145,6 @@ https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Ad_sports_new_logo.jpg",AD.SPORT|2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2fh%2f2%2f15%2fad-sports-premium-1.png",AD|SPORT(premium.1)
-http://dx.cmsdik.xyz:8080/220104300709/svbpvtog/90015
-#EXTINF:-1 tvg-logo="https://img.kooora.com/?i=o%2fh%2f2%2f16%2fad-sports-premium-1.png",AD|SPORT(premium.2)
-http://dx.cmsdik.xyz:8080/220104300709/svbpvtog/90018
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/ae-yas-tv-5972.jpg",YAS|SPORT
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://kl-alarab.com/wp-content/uploads/2021/11/SharjahTVlogo.png",SHARJAH
@@ -219,7 +211,7 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 http://185.105.4.106:1935/live/Bahrain Sports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.gdnonline.com/gdnimages/20200424/20200424021801246x0w.png",BAHRAIN|SPORT.2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.alnbras.net/wp-content/uploads/2020/12/spacetoon.jpg",SPACETOON
+#EXTINF:-1 tvg-logo="https://spacetoon.com/assets/imgs/1stoon.png",SPACETOON
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/168/61dd71a00e.png",OMAN
 http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
@@ -242,8 +234,6 @@ http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/4903.ts
 http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/3839.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png",NAT|GEO(WILD)
 http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/3838.ts
-#EXTINF:-1 tvg-logo="https://m.eyeofriyadh.com/news_images/2021/06/2d323125bae65.jpeg",OSN.MOVIES
-http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/2245.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRvI4BUqDefGRfRypI9fiVDwQcX_mP4CUfWSUn-=s900-c-k-c0x00ffffff-no-rj",ALIRAQIYA
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
