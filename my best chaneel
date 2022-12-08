@@ -87,7 +87,7 @@ http://line.stealthdino.com:80/0c8e4d48dd/ayedder99/602732
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvfun.me/big/mbc-plus-drama-hd.jpg",MBC+|DRAMA
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8?HasBahCa
-#EXTINF:-1, tvg-logo="https://rotana.net/triAssets/uploads/2021/03/645.png",MBC+|VARIETY
+#EXTINF:-1, tvg-logo="https://www.mbc.net/en/corporate/channels/MBC-Variety/main/0/imageBinary/b766c01e73117c19563b2940f2155bd71312c305/650-165-header.jpg",MBC+|VARIETY
 http://sabtooh.club:12060/233775625477/6384db7a1e38a.68055/2618
 #EXTINF:-1 tvg-logo="https://cdn04.paltoday.ps/ar/uploads/images/Oaxy3.PNG",MBC|MASR(1)
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8?HasBahCa
@@ -136,6 +136,19 @@ https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQNRB586MkQeIA2i33AnpiXdZRPW6WSg61xrRBm=s900-c-k-c0x00ffffff-no-rj",ALSHARQ|NEWS 
 https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoRYKq4T2BtUe8bS_-MREmpaBIDsP56MZ71A&usqp=CAU",DU.EA
+http://sabtooh.club:12060/live/199771479671/62f6e76687JJJ97b.15494/2828.ts
+#EXTINF:-1 tvg-logo="https://assets.turbologo.com/blog/it/2021/11/15090711/Nickelodeon-1-958x575.png",NICKELODEON
+http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/2828.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/30/Star_World_Asia_2013_Logo.png",STAR|WORLD
+http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/4904.ts
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201908/star_movies-logo_3.png.jpg",STAR|MOVIES
+http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/4903.ts
+#EXTINF:-1 tvg-logo="https://assets-cdn.nationalgeographic.com/natgeo/static/default.NG.logo.dark.jpg",NATIONAL|GEOGRAPHIC
+http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/3839.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png",NAT|GEO(WILD)
+http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/3838.ts
 
 #EXTINF:-1 tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/297/743230.jpg",ABU-DHABI
 http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby:hlscat.com
@@ -228,16 +241,6 @@ https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://www.istiqama.tv/public/assets/images/logo.png",ALISTIQAMA
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.turbologo.com/blog/it/2021/11/15090711/Nickelodeon-1-958x575.png",NICKELODEON
-http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/2828.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/30/Star_World_Asia_2013_Logo.png",STAR|WORLD
-http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/4904.ts
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201908/star_movies-logo_3.png.jpg",STAR|MOVIES
-http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/4903.ts
-#EXTINF:-1 tvg-logo="https://assets-cdn.nationalgeographic.com/natgeo/static/default.NG.logo.dark.jpg",NATIONAL|GEOGRAPHIC
-http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/3839.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png",NAT|GEO(WILD)
-http://sabtooh.club:12060/live/199771479671/62f6e7668797b.15494/3838.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRvI4BUqDefGRfRypI9fiVDwQcX_mP4CUfWSUn-=s900-c-k-c0x00ffffff-no-rj",ALIRAQIYA
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
