@@ -87,7 +87,7 @@ http://line.stealthdino.com:80/0c8e4d48dd/ayedder99/602732
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvfun.me/big/mbc-plus-drama-hd.jpg",MBC+|DRAMA
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8?HasBahCa
-#EXTINF:-1 tvg-logo="https://www.mbc.net/en/corporate/channels/MBC-Variety/main/0/imageBinary/b766c01e73117c19563b2940f2155bd71312c305/650-165-header.jpg",MBC+|VARIETY
+#EXTINF:-1,#EXTINF:-1 tvg-logo="https://rotana.net/triAssets/uploads/2021/03/645.png",MBC+|VARIETY
 http://sabtooh.club:12060/233775625477/6384db7a1e38a.68055/2618
 #EXTINF:-1 tvg-logo="https://cdn04.paltoday.ps/ar/uploads/images/Oaxy3.PNG",MBC|MASR(1)
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8?HasBahCa
