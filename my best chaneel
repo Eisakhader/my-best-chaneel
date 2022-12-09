@@ -249,12 +249,21 @@ https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/b3/96/4c/b3964c86bb6e19836a19baec07152bf2.jpg",DIJLAH
 https://ghaasiflu.online/Dijlah/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/syrian-satellite-channel-sy.png",SYRIA
-http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/sy-alikhbaria-syria-tv-1833.jpg",SYRIA|NEWS
 http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/syrian-satellite-channel-sy.png",SYRIA
+http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn03.paltoday.ps/ar/uploads/images/2022/03/tKFep.png",SYRIA|DRAMA
+http://82.137.248.16:1935/oLive/drama05042022/media_w1983622151_29385.ts
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-b48ObXY8kG4/WuCOa8hn2NI/AAAAAAAAAj8/fISscLh41x8SIiqacSC8IkHdr3cB4pswgCLcBGAs/s1600/2.jpg",NOUR|ALSHAM
+http://vod.ortas.sy:1935/oLive/nour05042022/media_w1517073859_29342.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/souryana-tv-sy.png",SYRIANA
 http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.amad.ps/thumb/2/0/310/200/upload/ar/images/1602173095-397-11.jpg",SAMA
+http://162.55.32.203:1935/live/_definst_/smil:mystream1.smil/media_w953229494_b2092100_slip,162,55,32,203,ip_5793.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EzkBkGFXsAAp46_.png",LANA
+http://eitc.secure2.footprint.net:80/egress/chandler/emirates/eitc/ts/SDI1-720p-00036668.ts
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Js2NRcZ4ynl23J9Qupti47cFhL7_D-OBQvYCi1YYuLynAOzqHbd20_QdfWgFs3MyrD0",ALMAYADEEN
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
@@ -304,7 +313,14 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tu
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Assadissa.png",ASSADISSA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Assassa.png",BEIN|SOPRT.1
+http://lb.yacinetvkora.com:80/live/tw.m3u8?s=aHR0cHM6Ly9wcm9kLWZhc3RseS1ldS13ZXN0LTMudmlkZW8ucHNjcC50di9UcmFuc2NvZGluZy92MS9obHMvZDJTMS1MT01jU1VhYnljdHlhNUFKN0swNXNuell6Q1NoNldSREQ5eXFHd21TQWRBSnBSMlNhY3VLQXpOWlV4ZHZsNW5jOVhNb3hQb3RlSnR1MnFfY3cvdHJhbnNjb2RlL2V1LXdlc3QtMy9wZXJpc2NvcGUtcmVwbGF5LWRpcmVjdC1wcm9kLWV1LXdlc3QtMy1wcml2YXRlL2V5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNJc0luWmxjbk5wYjI0aU9pSXlJbjAuZXlKRmJtTnZaR1Z5VTJWMGRHbHVaeUk2SW1WdVkyOWtaWEpmYzJWMGRHbHVaMTgzTWpCd016QmZNVEFpTENKSVpXbG5hSFFpT2pjeU1Dd2lTMkp3Y3lJNk1qYzFNQ3dpVjJsa2RHZ2lPakV5T0RCOS5sZGt0TTRmQ0ZSZmtQNFpFQmZaUEt0bEFVTkFjVFBrb3o5OTRZSkF6V3BFL3N0X2R5bmFtaWNfaGlnaGxhdGVuY3kubTN1OD90eXBlPWxpdmU%3D
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7eissa.png",BEIN|SOPRT.2
+http://lb.yacinetvkora.com:80/live/tw.m3u8?s=aHR0cHM6Ly9wcm9kLWZhc3RseS1ldS13ZXN0LTEudmlkZW8ucHNjcC50di9UcmFuc2NvZGluZy92MS9obHMvc0RtSEI5di1uZFlwWldyZXBrV1ltUWxXdTEzMHlOUWxGc0o0LVNHNnVxZGZsN0RkZDZFM1lWOVhRVmVrejlVQU1uZDB2S3I0VUdpU0dZdllFSzNXMEEvdHJhbnNjb2RlL2V1LXdlc3QtMS9wZXJpc2NvcGUtcmVwbGF5LWRpcmVjdC1wcm9kLWV1LXdlc3QtMS1wcml2YXRlL2V5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNJc0luWmxjbk5wYjI0aU9pSXlJbjAuZXlKRmJtTnZaR1Z5VTJWMGRHbHVaeUk2SW1WdVkyOWtaWEpmYzJWMGRHbHVaMTgzTWpCd016QmZNVEFpTENKSVpXbG5hSFFpT2pjeU1Dd2lTMkp3Y3lJNk1qYzFNQ3dpVjJsa2RHZ2lPakV5T0RCOS5sZGt0TTRmQ0ZSZmtQNFpFQmZaUEt0bEFVTkFjVFBrb3o5OTRZSkF6V3BFL3N0X2R5bmFtaWNfaGlnaGxhdGVuY3kubTN1OD90eXBlPWxpdmU%3D
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commo/Assadissa.png",ALKASS.1
+http://nooritv.live:25461/live/EXCHANGEgeo/uxAyDqLssc9Q/51670.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipons/7/7e/Assadissa.png",ALKASS.2
+http://nooritv.live:25461/live/EXCHANGEgeo/uxAyDqLssc9Q/51669.ts
 #EXTINF:-1,TEST
 https://stream-sp22eed.extremesution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8
 #EXTINF:-1,TEST
