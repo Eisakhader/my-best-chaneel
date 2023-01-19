@@ -248,7 +248,6 @@ https://vs-hls-pushb-ww-live.akamaized.net/=urn:bbc:pips:service:bbc_arabic_tv/p
 #EXTINF:-1 tvg-logo="https://elbashayer-com.b-cdn.net/elbashayer/uploads/2022/10/elbashayer-2022-10-06_192280.jpg",DUBAI|GROUP
 https://vs-hls-pushb-ww-live.akamaized.net/=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamaive.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.gdnonline.com/gdnimages/20200424/20200424021801246x0w.png",BAHRAIN
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.gdnonline.com/gdnimages/20200424/20200424021801246x0w.png",BAHRAIN|INTERNATIONAL
